@@ -20,9 +20,9 @@ The following steps were performed:
 
 5. Fit scaler to the data and transformed the data
 
-6. Split the data into a train test split
+6. Split the data into a train and test split
 
-7. trained the Logistic Regresion model
+7. Trained the Logistic Regresion model
 
 8. Evalutate the model
-   A. Model had an accuracy of 0.98 or 98%
+  A. Model had an accuracy of 0.98 or 98%
