@@ -3,9 +3,8 @@ Probability of Cancer being benign or malignant using Logisitic Regression. Code
 
 Used pandas and seaborn packages to complete.
 
-Cancer dataset pulled from Kaggle
-Breast Cancer Wisconsin (Diagnostic) Data Set
-  Website states the dataset is used to predict whether the cancer is benign or malignant.
+Cancer dataset pulled from Kaggle Breast Cancer Wisconsin (Diagnostic) Data Set
+  Website states the dataset is used to identify the probability of whether a person's cancer is benign or malignant.
 
 The following steps were performed:
 1. Exploratory Data Analysis
